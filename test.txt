@@ -1,6 +1,5 @@
 "hello git" 
 second commit
-fdhbsda
-nfuuwcmspkei
-,rmbuvnqamc
-f,rokrpwkvm
+stash 0
+stash 1
+testing
